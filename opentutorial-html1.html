@@ -3,14 +3,54 @@
 <head>
   <title>WEB1-HTML</title>
   <meta charset="utf-8">
+  <script>
+    var Links = {
+      SetColor:function(color){
+        var alist = document.querySelectorAll('a');
+        var i=0;
+        while(i<alist.length){
+          alist[i].style.color = color;
+          i=i+1;
+        }
+      }
+    }
+    var Body = {
+      SetColor:function(color){
+        document.querySelector('body').style.color = color;
+      },
+      SetBackgroundColor:function(color){
+        document.querySelector('body').style.backgroundColor = color;
+      }
+    }
+    function nightDayHandlear(self)
+    {
+      var target = document.querySelector('body');
+      if(self.value === 'night'){
+        Body.SetBackgroundColor('black');
+        Body.SetColor('white');
+        self.value = 'day';
+
+        Links.SetColor('powderblue');
+      }else{
+        Body.SetBackgroundColor('white');
+        Body.SetColor('black');
+        self.value = 'night';
+
+        Links.SetColor('blue');
+      }
+    }
+  </script>
 </head>
 
 <body>
   <h1><a href="index.html">WEB</a></h1>
+  <input type="button" value="night" onclick="
+    nightDayHandlear(this)
+  ">
   <ol>
-    <li><a href="1.html">HTML</a></li>
-    <li><a href="2.html">CSS</a></li>
-    <li><a href="3.html">JavaScript</a></li>
+    <li><a href="opentutorial-html1.html">HTML</a></li>
+    <li><a href="opentutorial-html2.html">CSS</a></li>
+    <li><a href="opentutorial-javascript.html">JavaScript</a></li>
   </ol>
 
   <h2>HTML</h2>
