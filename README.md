@@ -1,26 +1,62 @@
 # javascript_study
 
+> 생활코딩 JavaScript for Web Browser 공부입니다. <br>
+> 꼼꼼하게 공부하겠습니다.
 
-
-<!doctype html>
-<html>
-<head>
-  <title>WEB1 - Welcome</title>
-  <meta charset="utf-8">
-  <script src="colors.js"></script>
-</head>
-<body>
-  <h1><a href="index.html">WEB</a></h1>
-  <input type="button" value="night" onclick="
-    nightDayHandlear(this)
-  ">
-  <ol>
-    <li><a href="opentutorial-html1.html">HTML</a></li>
-    <li><a href="opentutorial-html2.html">CSS</a></li>
-    <li><a href="opentutorial-javascript.html">JavaScript</a></li>
-  </ol>
-  <h2>WEB</h2>
-  <p>The World Wide Web (abbreviated WWW or the Web) is an information space where documents and other web resources are identified by Uniform Resource Locators (URLs), interlinked by hypertext links, and can be accessed via the Internet.[1] English scientist Tim Berners-Lee invented the World Wide Web in 1989. He wrote the first web browser computer program in 1990 while employed at CERN in Switzerland.[2][3] The Web browser was released outside of CERN in 1991, first to other research institutions starting in January 1991 and to the general public on the Internet in August 1991.
-  </p>
-</body>
-</html>
+- 웹브라우저와 JavaScript
+- 실습방법
+- HTML에서 JavaScript 로드하기
+  * inline 방식
+  * script 태그 이용
+  * 외부 파일 로드
+  * onload
+- Object Model
+- BOM
+  * 전역객체 window
+  * 사용자와 커뮤니케이션하기
+  * Location 객체
+  * 창 제어
+- DOM
+  * 제어 대상을 찾기
+  * jQuery
+  * 제어 대상을 찾기(jQuery)
+  * HTMLElement
+  * HTMLCollection
+  * jQuery 객체
+  * Element 객체
+    + 식별자 API
+    + 조회 API
+    + 속성 API
+    + jQuery 속성 제어 API
+    + jQuery 조회 범위 제한
+  * Node 객체
+    + Node 관계 API
+    + 노드 종류 API
+    + 노드 변경 API
+    + jQuery 노드 변경 API
+    + 문자열로 노드 제어
+- Document 객체
+- Text 객체
+  * 값 API
+  * 조작 API
+- 문서의 기하학적 특성
+- 이벤트
+  * 등록방법
+    + inline
+    + 프로퍼티 리스너
+    + addEventListener()
+  * 이벤트 전파(버블링과 캡처링)
+  * 기본동작의 취소
+  * 이벤트 타입
+    + 폼
+    + 문서 로딩
+    + 마우스
+  * jQuery 이벤트
+    + on API 사용법
+- 네트워크 통신
+  * Ajax
+  * JSON
+  * jQuery Ajax
+- 활용
+  * Youtube 재생시간 구하기
+  * Word Counter
