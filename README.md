@@ -22,9 +22,9 @@
 - DOM
   * 제어 대상을 찾기
   * jQuery
-    + [라이브러리와 jQuery](https://github.com/sonjangwon/javascript_study/tree/master/README/JavaScript-jQuery : JavaScript-jQuery : Library And JQuery.md)
-    + [jQuery 기본 사용](https://github.com/sonjangwon/javascript_study/tree/master/README/JavaScript-jQuery : jQuery BasicUsage.md)
-  * [제어 대상을 찾기(jQuery)](https://github.com/sonjangwon/javascript_study/tree/master/README/JavaScript-jQuery RecallControlObject.md)
+    + [라이브러리와 jQuery](https://github.com/sonjangwon/javascript_study/tree/master/README/JavaScript-jQuery_LibraryAndJQuery.md)
+    + [jQuery 기본 사용](https://github.com/sonjangwon/javascript_study/tree/master/README/JavaScript-jQuery_BasicUsage.md)
+  * [제어 대상을 찾기(jQuery)](https://github.com/sonjangwon/javascript_study/tree/master/README/JavaScript-jQuery_RecallControlObject.md)
     + 기본문법
     + 엘리먼트 제어 1
     + 엘리먼트 제어 2
