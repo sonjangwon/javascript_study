@@ -30,7 +30,7 @@
     + 엘리먼트 제어 2
     + 엘리먼트 제어 3
   * [HTMLElement](https://github.com/sonjangwon/javascript_study/tree/master/README/JavaScript-HTMLElement.md)
-  * HTMLCollection
+  * [HTMLCollection](https://github.com/sonjangwon/javascript_study/tree/master/README/JavaScript-HTMLCollection.md)
   * jQuery 객체
   * Element 객체
     + 식별자 API
