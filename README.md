@@ -19,7 +19,13 @@
 - DOM
   * 제어 대상을 찾기
   * jQuery
+    + 라이브러리와 jQuery
+    + jQuery 기본 사용
   * 제어 대상을 찾기(jQuery)
+    + 기본문법
+    + 엘리먼트 제어 1
+    + 엘리먼트 제어 2
+    + 엘리먼트 제어 3
   * HTMLElement
   * HTMLCollection
   * jQuery 객체
