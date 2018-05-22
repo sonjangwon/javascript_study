@@ -3,9 +3,6 @@
 > 생활코딩 JavaScript for Web Browser 공부입니다. <br>
 > 꼼꼼하게 공부하겠습니다.
 
-- [모듈 1 : 기초](https://github.com/antaehyeon/WinterVacation_Project/blob/master/README/%EC%84%9C%EB%B2%84%20%EC%B8%A1%20JS%20-%20%EB%AA%A8%EB%93%88%201%20:%20%EA%B8%B0%EC%B4%88.md)
-
-
 - 웹브라우저와 JavaScript
 - 실습방법
 - HTML에서 JavaScript 로드하기
@@ -32,6 +29,10 @@
   * [HTMLElement](https://github.com/sonjangwon/javascript_study/tree/master/README/JavaScript-HTMLElement.md)
   * [HTMLCollection](https://github.com/sonjangwon/javascript_study/tree/master/README/JavaScript-HTMLCollection.md)
   * jQuery 객체
+    + 특성
+    + 엘리먼트 정보
+    + .map()
+    + API
   * Element 객체
     + 식별자 API
     + 조회 API
