@@ -31,4 +31,4 @@
 >DOM에서는 li.style이라는 부분이 중복적으로 사용된다.<br>
 >jQuery는 1줄에 연속적으로 메소드를 호출해서 작업이 가능하다.<br>
 >#active는 ID 값이 active인 것들을 가르킨다.<br>
->앞의 css메소드의 return한 값에서 css메소드를 실행시킨다.(Chaining) 
+>앞의 css메소드의 return한 값에서 css메소드를 실행시킨다.(Chaining)

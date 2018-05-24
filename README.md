@@ -28,13 +28,13 @@
     + 엘리먼트 제어 3
   * [HTMLElement](https://github.com/sonjangwon/javascript_study/tree/master/README/JavaScript-HTMLElement.md)
   * [HTMLCollection](https://github.com/sonjangwon/javascript_study/tree/master/README/JavaScript-HTMLCollection.md)
-  * jQuery 객체
+  * [jQuery 객체](https://github.com/sonjangwon/javascript_study/tree/master/README/JavaScript-jQueryObject.md)
     + 특성
     + 엘리먼트 정보
     + .map()
     + API
-  * Element 객체
-    + 식별자 API
+  * [Element 객체](https://github.com/sonjangwon/javascript_study/tree/master/README/JavaScript-Element.md)
+    + [식별자 API](https://github.com/sonjangwon/javascript_study/tree/master/README/JavaScript-Element-1.md)
     + 조회 API
     + 속성 API
     + jQuery 속성 제어 API
